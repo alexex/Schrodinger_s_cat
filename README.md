@@ -1,9 +1,10 @@
 # Schrodinger's cat, a different way of seeing things.
-'Wave function collapse' or 'many worlds'
-
-Since I don't speak English very well I wrote this article in Italian and then I used a translator.
+# 'Wave function collapse' or 'many worlds'
+- 
+- Since I don't speak English very well I wrote this article in Italian and then I used a translator.
 So sorry for the mistakes.
-
+- 
+-
 This is a small thought experiment that offers a different interpretation of Schrodinger's famous cat paradox.
 
 To do this, I will simulate the experiment with the quantum computer that IBM makes available on the web.
